@@ -1,3 +1,4 @@
+# Code von Emilio Oberheller, eigener Code hatte einen Fehler der nicht gefunden wurde
 class Bankomat:
   def init(self):
     self.kontostand = 0
