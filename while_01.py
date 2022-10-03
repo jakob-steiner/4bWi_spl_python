@@ -4,7 +4,7 @@ r = 0
 sum = 0
 
 while True:
-    r = random.randint(0,30)
+    r = random.randint(10,30)
     sum += r
     if r == 15 or r == 25:
         break
